@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles:  incorrect use of the COPY and CMD instructions. The original Dockerfile fails to properly copy the application and execute the correct command, resulting in a build failure. The solution shows the correct usage of both instructions. 
